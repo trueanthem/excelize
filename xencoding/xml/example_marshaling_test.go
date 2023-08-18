@@ -6,7 +6,7 @@ package xml_test
 
 import (
 	"fmt"
-	"github.com/xuri/excelize/v2/xgithub.com/xuri/excelize/v2/xencoding/xml"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"log"
 	"strings"
 )
