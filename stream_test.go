@@ -1,8 +1,8 @@
 package excelize
 
 import (
-	"encoding/xml"
 	"fmt"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"math/rand"
 	"os"
 	"path/filepath"

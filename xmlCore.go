@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // DocProperties directly maps the document core properties.
 type DocProperties struct {

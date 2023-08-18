@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // xlsxPivotTableDefinition represents the PivotTable root element for
 // non-null PivotTables. There exists one pivotTableDefinition for each

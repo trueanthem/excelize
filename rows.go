@@ -13,8 +13,8 @@ package excelize
 
 import (
 	"bytes"
-	"encoding/xml"
 	"fmt"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"io"
 	"math"
 	"os"

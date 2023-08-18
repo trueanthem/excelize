@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // xlsxCalcChain directly maps the calcChain element. This element represents the root of the calculation chain.
 type xlsxCalcChain struct {

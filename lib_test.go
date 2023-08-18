@@ -3,8 +3,8 @@ package excelize
 import (
 	"archive/zip"
 	"bytes"
-	"encoding/xml"
 	"fmt"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"io"
 	"os"
 	"runtime"

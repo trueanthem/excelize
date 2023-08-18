@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // xlsxTheme directly maps the theme element in the namespace
 // http://schemas.openxmlformats.org/drawingml/2006/main

@@ -13,7 +13,7 @@ package excelize
 
 import (
 	"bytes"
-	"encoding/xml"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"io"
 	"strings"
 )

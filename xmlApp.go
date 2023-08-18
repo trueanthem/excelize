@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // AppProperties directly maps the document application properties.
 type AppProperties struct {

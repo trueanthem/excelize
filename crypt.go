@@ -22,7 +22,7 @@ import (
 	"crypto/sha512"
 	"encoding/base64"
 	"encoding/binary"
-	"encoding/xml"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"hash"
 	"math"
 	"path/filepath"

@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // vmlDrawing directly maps the root element in the file
 // xl/drawings/vmlDrawing%d.vml.

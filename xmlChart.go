@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // xlsxChartSpace directly maps the chartSpace element. The chart namespace in
 // DrawingML is for representing visualizations of numeric data with column
