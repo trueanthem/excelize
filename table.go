@@ -13,8 +13,8 @@ package excelize
 
 import (
 	"encoding/json"
-	"encoding/xml"
 	"fmt"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"regexp"
 	"strconv"
 	"strings"

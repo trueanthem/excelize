@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // xlsxTable directly maps the table element. A table helps organize and provide
 // structure to list of information in a worksheet. Tables have clearly labeled

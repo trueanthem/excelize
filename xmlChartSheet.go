@@ -13,7 +13,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // xlsxChartsheet directly maps the chartsheet element of Chartsheet Parts in
 // a SpreadsheetML document.

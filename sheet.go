@@ -14,8 +14,8 @@ package excelize
 import (
 	"bytes"
 	"encoding/json"
-	"encoding/xml"
 	"fmt"
+	"github.com/xuri/excelize/v2/xencoding/xml"
 	"io"
 	"io/ioutil"
 	"log"

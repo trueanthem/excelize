@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // decodeCellAnchor directly maps the oneCellAnchor (One Cell Anchor Shape
 // Size) and twoCellAnchor (Two Cell Anchor Shape Size). This element

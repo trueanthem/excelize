@@ -11,7 +11,7 @@
 
 package excelize
 
-import "encoding/xml"
+import "github.com/xuri/excelize/v2/xencoding/xml"
 
 // xlsxPivotCacheDefinition represents the pivotCacheDefinition part. This part
 // defines each field in the source data, including the name, the string
